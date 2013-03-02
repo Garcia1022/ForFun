@@ -1,0 +1,5 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\Image\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\Image\bin\Debug\Image.dll
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\Image\bin\Debug\Image.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\Image\obj\x86\Debug\Image.dll
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\Image\obj\x86\Debug\Image.pdb

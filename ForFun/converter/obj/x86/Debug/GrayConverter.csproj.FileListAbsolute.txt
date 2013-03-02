@@ -1,0 +1,14 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\bin\Debug\Image.dll
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\bin\Debug\Image.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\bin\Debug\convert.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\bin\Debug\convert.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\obj\x86\Debug\convert.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Bluebeam\converter\obj\x86\Debug\convert.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\obj\x86\Debug\convert.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\obj\x86\Debug\convert.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\bin\Debug\convert.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\bin\Debug\convert.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\bin\Debug\Image.dll
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\bin\Debug\Image.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ForFun\converter\obj\x86\Debug\ResolveAssemblyReference.cache
